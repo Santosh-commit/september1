@@ -15,6 +15,11 @@ private void eCommerceOne() {
 	System.out.println("flipkart");
 }
 
+
+private void browser() {
+
+	System.out.println("chrome");
+}
 public static void main(String[] args) {
 	
 	EmployeesDetails e = new EmployeesDetails();
