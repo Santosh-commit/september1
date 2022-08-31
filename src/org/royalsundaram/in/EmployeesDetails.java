@@ -20,6 +20,11 @@ private void browser() {
 
 	System.out.println("chrome");
 }
+
+private void test() {
+
+	System.out.println("santosh git practice");
+}
 public static void main(String[] args) {
 	
 	EmployeesDetails e = new EmployeesDetails();
